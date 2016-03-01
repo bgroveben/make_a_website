@@ -10,7 +10,7 @@ h1 {
 }
 
 p {
-  max-width: 65%;
+  max-width: 57%;
   min-width: 500px;
 }
 
@@ -40,6 +40,7 @@ video {
 }
 
 .nav {
+  height: 1366px;
   background-color: #FFEE00;
   max-width: 25%;
   min-width: 140px;
