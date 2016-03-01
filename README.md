@@ -4,4 +4,4 @@
 
 If you want to check it out, just open index.html in your browser.
 
-I am at: A Closer Look at CSS 
+I am at: UNIT 3: BOUNDARIES AND SPACE 
